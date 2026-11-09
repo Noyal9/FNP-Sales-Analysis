@@ -5,6 +5,12 @@ The FNP Sales Analysis Dashboard is an interactive Excel dashboard designed to a
 
 It helps understand sales trends across different occasions, product categories, months, and cities, enabling better business decision-making.
 
+## Dataset Information
+
+The project uses three Excel files as source datasets. These datasets contain the information required to analyze orders, products, customers, and sales performance.
+
+The datasets were used to create Pivot Tables, calculate key performance indicators, and develop interactive visualizations in Microsoft Excel.
+
 ## Tools & Technologies Used
 - Microsoft Excel
 - Pivot Tables
